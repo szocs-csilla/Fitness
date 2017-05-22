@@ -1,0 +1,26 @@
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Common\bin\Debug\Common.dll.config
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Common\bin\Debug\Common.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Common\bin\Debug\Common.pdb
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Common\bin\Debug\EntityFramework.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Common\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Common\bin\Debug\System.Data.SqlServerCe.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Common\bin\Debug\EntityFramework.xml
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Common\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Common\obj\Debug\Common.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Common\obj\Debug\Common.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\bin\Debug\Common.dll.config
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\bin\Debug\Common.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\bin\Debug\Common.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\bin\Debug\EntityFramework.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\bin\Debug\EntityFramework.xml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\obj\Debug\Common.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\obj\Debug\Common.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Common\bin\Debug\WebCam_Capture.dll

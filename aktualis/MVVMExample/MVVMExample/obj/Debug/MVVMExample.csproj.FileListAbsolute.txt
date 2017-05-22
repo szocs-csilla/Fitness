@@ -1,0 +1,137 @@
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\MVVMExample.exe.config
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\MVVMExample.exe
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\MVVMExample.pdb
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\Common.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\EntityFramework.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\Model.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\System.Data.SqlServerCe.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\View.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\ViewModel.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\Common.pdb
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\Model.pdb
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\ViewModel.pdb
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\View.pdb
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\EntityFramework.xml
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\obj\Debug\MVVMExample.csprojResolveAssemblyReference.cache
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\obj\Debug\App.g.cs
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\obj\Debug\MVVMExample_MarkupCompile.cache
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\obj\Debug\MVVMExample.Properties.Resources.resources
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\obj\Debug\MVVMExample.csproj.GenerateResource.Cache
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\obj\Debug\MVVMExample.exe
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\MVVMExample\obj\Debug\MVVMExample.pdb
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\MVVMExample.exe.config
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\obj\Debug\MVVMExample.exe
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\obj\Debug\MVVMExample.pdb
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\MVVMExample.exe
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\MVVMExample.pdb
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\Common.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\EntityFramework.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServer.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\Model.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\System.Data.SqlServerCe.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\View.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\ViewModel.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\Common.pdb
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\Model.pdb
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\ViewModel.pdb
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\View.pdb
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\EntityFramework.xml
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServer.xml
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\obj\Debug\MVVMExample.csprojResolveAssemblyReference.cache
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\obj\Debug\App.g.cs
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\obj\Debug\MVVMExample_MarkupCompile.cache
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\obj\Debug\MVVMExample.Properties.Resources.resources
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\MVVMExample\obj\Debug\MVVMExample.csproj.GenerateResource.Cache
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\MVVMExample.exe.config
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\MVVMExample.exe
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\MVVMExample.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\MVVMExample.exe
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\MVVMExample.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\Common.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\EntityFramework.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\Model.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\View.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\ViewModel.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\Common.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\Model.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\ViewModel.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\View.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\EntityFramework.xml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\MVVMExample.csprojResolveAssemblyReference.cache
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\App.g.cs
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\MVVMExample_MarkupCompile.cache
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\MVVMExample.Properties.Resources.resources
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\MVVMExample.csproj.GenerateResource.Cache
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\WPFToolkit.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\Themes\IG\IG.MSControls.Core.Implicit.baml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\Themes\IG\IG.MSControls.Toolkit.Implicit.baml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\Themes\IG\Styles.Shared.baml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\Themes\IG\Styles.WPF.baml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\Themes\IG\Theme.Colors.baml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\Themes\Metro\Styles.Shared.baml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\Themes\Metro\Styles.WPF.baml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\Themes\Metro\Theme.Colors.baml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\MVVMExample_MarkupCompile.lref
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\App.baml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\obj\Debug\MVVMExample.g.resources
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\MVVMExample\bin\Debug\WebCam_Capture.dll
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\MVVMExample.exe.config
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\MVVMExample.exe
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\MVVMExample.pdb
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\MVVMExample.exe
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\MVVMExample.pdb
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\Common.dll
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\EntityFramework.dll
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServer.dll
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServerCompact.dll
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\Model.dll
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\System.Data.SqlServerCe.dll
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\View.dll
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\ViewModel.dll
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\WPFToolkit.dll
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\WebCam_Capture.dll
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\Common.pdb
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\Model.pdb
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\ViewModel.pdb
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\View.pdb
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\EntityFramework.xml
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServer.xml
+f:\wpf\aktualis\MVVMExample\MVVMExample\bin\Debug\EntityFramework.SqlServerCompact.xml
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\MVVMExample.csprojResolveAssemblyReference.cache
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\Themes\IG\IG.MSControls.Core.Implicit.baml
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\Themes\IG\IG.MSControls.Toolkit.Implicit.baml
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\Themes\IG\Styles.Shared.baml
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\Themes\IG\Styles.WPF.baml
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\Themes\IG\Theme.Colors.baml
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\Themes\Metro\Styles.Shared.baml
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\Themes\Metro\Styles.WPF.baml
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\Themes\Metro\Theme.Colors.baml
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\App.g.cs
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\MVVMExample_MarkupCompile.cache
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\MVVMExample_MarkupCompile.lref
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\App.baml
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\MVVMExample.g.resources
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\MVVMExample.Properties.Resources.resources
+f:\wpf\aktualis\MVVMExample\MVVMExample\obj\Debug\MVVMExample.csproj.GenerateResource.Cache
+C:\Users\Csilla\Source\Repos\Fitness\aktualis\MVVMExample\MVVMExample\bin\Debug\MVVMExample.exe.config
+C:\Users\Csilla\Source\Repos\Fitness\aktualis\MVVMExample\MVVMExample\obj\Debug\MVVMExample.exe
+C:\Users\Csilla\Source\Repos\Fitness\aktualis\MVVMExample\MVVMExample\obj\Debug\MVVMExample.pdb

@@ -1,0 +1,115 @@
+﻿<Window x:Class="View.MainWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:View"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300"
+             Left="100" 
+             Top="50"
+             MinWidth="900" MinHeight="550"
+             MaxWidth="900" MaxHeight="550">
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+    </Window.Resources>
+    <StackPanel>
+        <TabControl  Background="DarkGray">
+            <TabItem Header="ÜGYFELEK">
+
+                <StackPanel Orientation="Vertical" Height="{Binding ActualHeight, RelativeSource={RelativeSource AncestorType={x:Type Window}}}">
+
+                    <Grid Height="100">
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="1*" />
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Orientation="Horizontal">
+
+                            <Label Content="ÜGYFÉL " Width="Auto" Height="25" Margin="20,0,0,0"></Label>
+                            <ComboBox x:Name="combobox" ItemsSource="{Binding Ugyfelek}" SelectedValuePath="Ugyfel_ID" DisplayMemberPath="Nev" Width="450" Height="20" HorizontalAlignment="Left" Margin="0,10,5,10"/>
+                            <Button x:Name="ClearButton" Content="Clear" Width="50" Height="20" Click="ClearButton_Click"/>
+                        </StackPanel>
+                        
+                        <StackPanel Grid.Column="1" Orientation="Horizontal" Margin="10">
+                            <TextBox x:Name="SerchTextBox" Width="200" Height="20"/>
+                            <Button x:Name="SerchButton" IsDefault="True" Content="Serch" Width="50" Height="20" Click="SerchButton_Click"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1.8*"></ColumnDefinition>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        
+                        <StackPanel Grid.Column="0" Orientation="Vertical" Height="280">
+                            <StackPanel Orientation="Horizontal" Margin="50,10,0,0">
+                                <Label Content="Teljes Név " Width="100" Margin="20" HorizontalAlignment="Left" HorizontalContentAlignment="Right"/>
+                                <TextBox x:Name="NameTextBox" Width="250" Height="20"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="50,0,0,0">
+                                <Label Content="E-mail cím " Width="100" Margin="20" HorizontalAlignment="Left" HorizontalContentAlignment="Right"/>
+                                <TextBox x:Name="EmailTextBox" Width="250" Height="20"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="50,0,0,0">
+                                <Label Content="Születési dátum " Width="100" Margin="20" HorizontalAlignment="Left" HorizontalContentAlignment="Right"/>
+                                <DatePicker x:Name="DateTextBox" SelectedDate="{Binding DateFrom}" Width="180" Height="25"/>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="1" Orientation="Vertical">
+
+                            <StackPanel Orientation="Horizontal">
+
+                                <Label Content="Kép " Width="50" Margin="0,30,0,0" HorizontalAlignment="Left"/>
+                                <Border BorderThickness="3" CornerRadius="3" Width="150" Height="150" Margin="0,30,90,0" RenderTransformOrigin="0.872,0.475">
+                                    <Border.BorderBrush>
+                                        <RadialGradientBrush>
+                                            <GradientStop Color="Black" Offset="0.047"/>
+                                            <GradientStop Color="Black" Offset="1"/>
+                                        </RadialGradientBrush>
+                                    </Border.BorderBrush>
+                                    <Image x:Name="imgVideo" Stretch="Fill"/>
+                                </Border>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                
+                                <Button x:Name="CAMButton" Content="CAM" Margin="50,10,0,0" Click="CAMButton_Click"></Button>
+                                <Button x:Name="PhotoButton" Content="Fotó" Margin="10,10,0,0" Click="PhotoButton_Click"></Button>
+                                <Button x:Name="SaveButton" Content="Töröl" Margin="10,10,0,0" Click="SaveButton_Click"></Button>
+
+                            </StackPanel>
+
+                        </StackPanel>
+                        
+                        
+                    </Grid>
+
+                    <StackPanel Orientation="Horizontal" Height="100" Margin="0,0,0,10" HorizontalAlignment="Right">
+                        <Button x:Name="Add" Content="Hozzáad" Width="200" Height="20" Margin="5" Click="Add_Click"/>
+                        <Button x:Name="UpdateButton"  Content="Módosít" Width="200" Height="20" Margin="5" Click="UpdateButton_Click"/>
+                        <Button x:Name="DeleteButton" Content="Töröl"   Width="200" Height="20" Margin="5"/>
+                    </StackPanel>
+
+                </StackPanel>
+            </TabItem>
+
+            <TabItem Header="BÉRLET TÍPUSOK" />
+            <TabItem Header="BÉRLETEK" />
+            <TabItem Header="BÉRLET HOSSZABBÍTÁS" />
+            <TabItem Header="BELÉPÉSEK" />
+            <TabItem Visibility="{Binding isAdmin, Converter={StaticResource BooleanToVisibilityConverter}}" Header="UGYFEL LISTA">
+                <StackPanel>
+                    <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="{Binding ugyfelekLista}" Height="487" Margin="10,0,9.6,0"/>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+ 
+
+    </StackPanel>
+   
+   
+</Window>

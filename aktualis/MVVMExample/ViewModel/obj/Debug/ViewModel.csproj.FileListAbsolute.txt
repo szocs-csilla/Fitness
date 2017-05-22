@@ -1,0 +1,70 @@
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\ViewModel.dll.config
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\ViewModel.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\ViewModel.pdb
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\Common.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\EntityFramework.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\Model.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\System.Data.SqlServerCe.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\Common.pdb
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\Model.pdb
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\EntityFramework.xml
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\obj\Debug\ViewModel.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\ViewModel\obj\Debug\ViewModel.pdb
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\ViewModel.dll.config
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\ViewModel.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\ViewModel.pdb
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\Common.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\EntityFramework.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\Model.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\System.Data.SqlServerCe.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\Common.pdb
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\Model.pdb
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\EntityFramework.xml
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\obj\Debug\ViewModel.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\ViewModel.dll.config
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\Common.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\EntityFramework.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\Model.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\Common.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\Model.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\EntityFramework.xml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\ViewModel\bin\Debug\WebCam_Capture.dll
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\ViewModel.dll.config
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\ViewModel.dll
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\ViewModel.pdb
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\Common.dll
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\EntityFramework.dll
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\Model.dll
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\System.Data.SqlServerCe.dll
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\WebCam_Capture.dll
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\Common.pdb
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\Model.pdb
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\EntityFramework.xml
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+F:\wpf\aktualis\MVVMExample\ViewModel\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\wpf\aktualis\MVVMExample\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+F:\wpf\aktualis\MVVMExample\ViewModel\obj\Debug\ViewModel.dll
+F:\wpf\aktualis\MVVMExample\ViewModel\obj\Debug\ViewModel.pdb

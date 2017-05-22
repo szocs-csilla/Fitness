@@ -1,0 +1,41 @@
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Model\bin\Debug\Model.dll.config
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Model\bin\Debug\Model.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Model\bin\Debug\Model.pdb
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Model\bin\Debug\EntityFramework.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Model\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Model\bin\Debug\System.Data.SqlServerCe.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Model\bin\Debug\EntityFramework.xml
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Model\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Model\obj\Debug\Model.dll
+D:\Info\III.II\Tech.net\Lab9\MVVMExample\Model\obj\Debug\Model.pdb
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\Model\bin\Debug\Model.dll.config
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\Model\bin\Debug\Model.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\Model\bin\Debug\Model.pdb
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\Model\bin\Debug\EntityFramework.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\Model\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\Model\bin\Debug\System.Data.SqlServerCe.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\Model\bin\Debug\EntityFramework.xml
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\Model\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\Model\obj\Debug\Model.dll
+E:\Egyetem-FelevII\C#(.NET)\MVVMExample\Model\obj\Debug\Model.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\bin\Debug\Model.dll.config
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\bin\Debug\Model.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\bin\Debug\Model.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\bin\Debug\Common.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\bin\Debug\EntityFramework.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\bin\Debug\Common.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\bin\Debug\EntityFramework.xml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\obj\Debug\Model.dll
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\obj\Debug\Model.pdb
+C:\Users\Pap Szabolcs\Desktop\MVVMExample\Model\bin\Debug\WebCam_Capture.dll
